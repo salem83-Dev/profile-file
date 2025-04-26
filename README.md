@@ -29,7 +29,6 @@ I'm Salem Baghuth.
 <img align="left" alt="CSS3" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="TailwindCSS" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <!-- Programming Languages -->
 <img align="left" alt="Python" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
