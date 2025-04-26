@@ -28,19 +28,12 @@ I'm Salem Baghuth.
 <img align="left" alt="HTML5" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="Vue.js" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="TailwindCSS" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <!-- Programming Languages -->
 <img align="left" alt="Python" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img align="left" alt="Rust" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
-<img align="left" alt="PHP" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-
 <br clear="both"/>
 
 ---
