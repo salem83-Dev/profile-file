@@ -20,7 +20,7 @@
 
 ## 🥋 Codewars
 
-[![Codewars](https://www.codewars.com/users/salimsaid31/badges/large)](https://www.codewars.com/users/salimsaid31)
+[![Codewars]([https://www.codewars.com/users/salimsaid31/badges/large)](https://www.codewars.com/users/salimsaid31](https://www.codewars.com/users/salem83-Dev/badges/large))
 
 ---
 ## 🛠️ Tech Stack
