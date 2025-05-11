@@ -11,6 +11,7 @@
 ---
 
 ##  GitHub
+![Salem’s GitHub stats]git@github.com:salem83-Dev/problem_solving.git
 
 ![Salem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salimsaid31&show_icons=true&theme=dark)
 
@@ -19,7 +20,7 @@
 ---
 
 ## 🥋 Codewars
-[[![Codewars](https://www.codewars.com/users/salem83-Dev/badges/large)
+![Codewars](https://www.codewars.com/users/salem83-Dev/badges/large)
 
 ---
 ## 🛠️ Tech Stack
