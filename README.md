@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/qgM140p8l23k0/giphy.gif" alt="Coding GIF" width="150px" />
   <h1>
     Hi 👋, I'm Salem Baghoth
   </h1>
@@ -9,24 +10,31 @@
 </div>
 
 ---
+
 ## 🚀 About Me
-A passionate Computer Science student and Front-End Developer focused on honing my technical skills and problem-solving abilities.
+<p>
+  A passionate <strong>Computer Science student</strong> and <strong>Front-End Developer</strong> focused on honing my technical skills and problem-solving abilities.
+  <br/>
+  I have hands-on experience building interactive user interfaces using <strong>React.js</strong> and <strong>JavaScript</strong>, with proficiency in <strong>CSS</strong> and <strong>TailwindCSS</strong>.
+  <br/>
+  I am driven to turn ideas into tangible realities and aspire to become a professional <strong>Software Engineer</strong>.
+</p>
 
-
-I have hands-on experience building interactive user interfaces using <strong>React.js</strong> and <strong>JavaScript</strong>, with proficiency in <strong>CSS</strong> and <strong>TailwindCSS</strong>.
-
-
-I am driven to turn ideas into tangible realities and aspire to become a professional <strong>Software Engineer</strong>.
 ---
 
-## 🎓 Education
+## 💼 Professional Experience
 
-### <strong>Bachelor's Degree, Computer Science</strong>
+### <strong>Front-End Developer</strong> (Part-time)
 <p>
-  <strong>📍 Hadhramout University</strong> | Mukalla, Yemen
+  <strong>📍 Droob</strong> | Mukalla, Yemen
   <br/>
-  <em>(2021 - 2025)</em>
+  <em>(أضف التواريخ هنا، مثال: Jan 2024 - Present)</em>
 </p>
+<ul>
+  <li>Developed and maintained front-end components for the Droob application.</li>
+  <li>Contributed to enhancing user experience and application interactivity using React.js.</li>
+  <li>Collaborated within a team to implement new features and fix bugs.</li>
+</ul>
 
 ---
 
