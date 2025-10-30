@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi 👋, I'm Salem Baghuth
+    Hi 👋, I'm Salem Baghoth
   </h1>
   
   <a href="#">
@@ -11,10 +11,7 @@
 ---
 
 ## 🚀 About Me
-<p>
-  - 👨‍💻 أنا مطور واجهة أمامية (Front-End) مقيم في اليمن.<br>
-  - 💡 أركز حالياً على تطوير مهاراتي لبناء واجهات مستخدم احترافية وتفاعلية.<br>
-  - 🌱 أسعى دائماً لتعلم أحدث التقنيات وتحدي نفسي للنمو كمطور.
+<p>Aspiring Software Engineer | Learning Frontend With HTML CSS and JS And eager to build responsive web applications.
 </p>
 
 ---
