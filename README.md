@@ -1,6 +1,5 @@
 <div align="center">
-  
-<div class="tenor-gif-embed" data-postid="26718834" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/happy-engineers-day-engineers-day-engineers-developers-software-developers-gif-26718834">Happy Engineers Day Engineers GIF</a>from <a href="https://tenor.com/search/happy+engineers+day-gifs">Happy Engineers Day GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   <h1>
     Hi 👋, I'm Salem Baghoth
   </h1>
