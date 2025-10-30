@@ -1,33 +1,47 @@
 <div align="center">
   <h1>
-    Hi 👋, I'm Salem Baghoth
+    Hi 👋, I'm Salem Baghuth
   </h1>
   
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&color=34E7F8&center=true&vCenter=true&width=435&lines=Front-End+Developer;React.js+%26+JavaScript+Specialist;CSS+%26+TailwindCSS+Fan;Based+in+Yemen+🗺️" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&color=34E7F8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Front-End+Developer;React.js+%26+JavaScript+Specialist;Aspiring+Software+Engineer" alt="Typing Animation" />
   </a>
 </div>
 
 ---
-
 ## 🚀 About Me
-<p>Aspiring Software Engineer | Learning Frontend With HTML CSS and JS And eager to build responsive web applications.
-</p>
+A passionate Computer Science student and Front-End Developer focused on honing my technical skills and problem-solving abilities.
 
+
+I have hands-on experience building interactive user interfaces using <strong>React.js</strong> and <strong>JavaScript</strong>, with proficiency in <strong>CSS</strong> and <strong>TailwindCSS</strong>.
+
+
+I am driven to turn ideas into tangible realities and aspire to become a professional <strong>Software Engineer</strong>.
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsaid31&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Salem's GitHub Stats" />
+## 💼 Professional Experience
+
+### <strong>Front-End Developer</strong> (Part-time)
+<p>
+  <strong>📍 Droob</strong> | Mukalla, Yemen
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsaid31&layout=compact&theme=dark" alt="Top Languages" />
+  <em>(أضف التواريخ هنا، مثال: Jan 2024 - Present)</em>
 </p>
+<ul>
+  <li>قمت بتطوير وصيانة مكونات الواجهة الأمامية لتطبيق "دروب".</li>
+  <li>ساهمت في تحسين تجربة المستخدم وتفاعلية التطبيق باستخدام React.js.</li>
+  <li>عملت ضمن فريق لتطبيق ميزات جديدة وإصلاح الأخطاء البرمجية.</li>
+</ul>
 
 ---
 
-## 🥋 Codewars
-<p align="center">
-  <img src="https://www.codewars.com/users/salem83-Dev/badges/large" alt="Codewars Badge" />
+## 🎓 Education
+
+### <strong>Bachelor's Degree, Computer Science</strong>
+<p>
+  <strong>📍 Hadhramout University</strong> | Mukalla, Yemen
+  <br/>
+  <em>(2021 - 2025)</em>
 </p>
 
 ---
@@ -43,6 +57,18 @@
   <img alt="VSCode" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="C++" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsaid31&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Salem's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsaid31&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.codewars.com/users/salem83-Dev/badges/large" alt="Codewars Badge" />
 </p>
 
 ---
