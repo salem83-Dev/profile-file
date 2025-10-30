@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" alt="Developer Coding GIF" width="200px" />
+  
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" alt="Developer Coding GIF" width="200px" />
+  
   <h1>
     Hi 👋, I'm Salem Baghoth
   </h1>
@@ -19,22 +21,6 @@
   <br/>
   I am driven to turn ideas into tangible realities and aspire to become a professional <strong>Software Engineer</strong>.
 </p>
-
----
-
-## 💼 Professional Experience
-
-### <strong>Front-End Developer</strong> (Part-time)
-<p>
-  <strong>📍 Droob</strong> | Mukalla, Yemen
-  <br/>
-  <em>(أضف التواريخ هنا، مثال: Jan 2024 - Present)</em>
-</p>
-<ul>
-  <li>Developed and maintained front-end components for the Droob application.</li>
-  <li>Contributed to enhancing user experience and application interactivity using React.js.</li>
-  <li>Collaborated within a team to implement new features and fix bugs.</li>
-</ul>
 
 ---
 
