@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi 👋, I'm Salem Baghuth
+    Hi 👋, I'm Salem Baghoth
   </h1>
   
   <a href="#">
@@ -17,22 +17,6 @@ I have hands-on experience building interactive user interfaces using <strong>Re
 
 
 I am driven to turn ideas into tangible realities and aspire to become a professional <strong>Software Engineer</strong>.
----
-
-## 💼 Professional Experience
-
-### <strong>Front-End Developer</strong> (Part-time)
-<p>
-  <strong>📍 Droob</strong> | Mukalla, Yemen
-  <br/>
-  <em>(أضف التواريخ هنا، مثال: Jan 2024 - Present)</em>
-</p>
-<ul>
-  <li>قمت بتطوير وصيانة مكونات الواجهة الأمامية لتطبيق "دروب".</li>
-  <li>ساهمت في تحسين تجربة المستخدم وتفاعلية التطبيق باستخدام React.js.</li>
-  <li>عملت ضمن فريق لتطبيق ميزات جديدة وإصلاح الأخطاء البرمجية.</li>
-</ul>
-
 ---
 
 ## 🎓 Education
