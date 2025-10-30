@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgM140p8l23k0/giphy.gif" alt="Coding GIF" width="150px" />
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" alt="Developer Coding GIF" width="200px" />
   <h1>
     Hi 👋, I'm Salem Baghoth
   </h1>
