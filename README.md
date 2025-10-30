@@ -51,7 +51,7 @@
 
 ## 📫 How to Reach Me
 <p align="center">
-  <a href="[[https://linkedin.com/in/salem-baghouth-800887271](https://linkedin.com/in/salem-baghoth-800887271)](https://linkedin.com/in/salem-baghoth-800887271)" target="_blank">
+<a href="https://linkedin.com/in/salem-baghoth-800887271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:salembagh131@gmail.com">
