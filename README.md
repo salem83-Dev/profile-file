@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" alt="Developer Coding GIF" width="200px" />
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif](https://iconscout.com/lottie-animations/software-engineer" alt="Developer Coding GIF" width="200px" />
   
   <h1>
     Hi 👋, I'm Salem Baghoth
@@ -53,7 +53,7 @@
 
 ## 📫 How to Reach Me
 <p align="center">
-  <a href="https://linkedin.com/in/salem-baghouth-800887271" target="_blank">
+  <a href="[[https://linkedin.com/in/salem-baghouth-800887271](https://linkedin.com/in/salem-baghoth-800887271)](https://linkedin.com/in/salem-baghoth-800887271)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:salembagh131@gmail.com">
